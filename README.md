@@ -15,10 +15,10 @@ You can view the live website here: [https://paloma-ti.github.io](https://paloma
 
 ## 🧠 About Me
 
-I’m currently studying Software Engineering and learning English.  
-I’m passionate about web development and interested in international remote opportunities.
+I am a graduate in Software Engineering and I am currently learning English.  
+I am passionate about web development and interested in international remote opportunities.
 
 ## 📬 Contact
 
 - GitHub: [@Paloma-TI](https://github.com/Paloma-TI)  
-- LinkedIn: *(add your LinkedIn here if you have one)*
+- LinkedIn: [Paloma Rodrigues](https://www.linkedin.com/in/paloma-rodrigues-279331249/)
